@@ -1,0 +1,1 @@
+alter table doctors add phoneNumber varChar(20) not null;
